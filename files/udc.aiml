@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hi</pattern>
+    <template>Hello 😀</template>
+</category>
+
+<category>
+    <pattern>I would like to order a custom card</pattern>
+    <template>send an email of what you want it to be and look like at Pokemizer001@gmail.com</template>
+</category>
+<category>
+    <pattern>The email address  is not working</pattern>
+    <template>Wait for another day it is probably just laggy internet</template>
+</category>
+</aiml>
